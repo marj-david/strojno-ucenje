@@ -11,7 +11,7 @@
 
 ime_dat = input("Unesi ime datoteke: ")
 i=0
-sum=0
+sum=0.0
 
 fhand = open(ime_dat)
 for line in fhand:
