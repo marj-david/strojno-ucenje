@@ -77,3 +77,16 @@ U drugom primeju koristimo polinomske članove. U prvom primjeru će regresijska
   7. Kolika je prosječna prijeđena kilometraža za automobile s dizel motorom, a koliko za automobile s benzinskim
      motorom?
 
+LV5
+
+1. a) Pokrenite skriptu i pogledajte dobiveni dijagram raspršenja. Što primjećujete?
+   Primjećujemo da što je temperatura i razina CO2 u sobi veća, to znači da je veća vjerojatnost da je ona zauzeta.
+   b) Koliko podatkovnih primjera sadrži učitani skup podataka?
+   Podatkovni skup sadrži 10129 primjera
+   c) Kakva je razdioba podatkovnih primjera po klasama?
+   Binarni klasifikacijski problem
+
+2. e) Što se događa s rezultatima ako se koristi veći odnosno manji broj susjeda?
+   Povećavanjem broja susjeda smanjujemo razlike između podataka, odnosno riješavamo se šuma. Smanjivanjem dobivamo oštrije razlike
+   f) Što se događa s rezultatima ako ne koristite skaliranje ulaznih veličina?
+   Rezultati se ne mijenjaju bitno
