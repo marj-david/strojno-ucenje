@@ -99,3 +99,6 @@ LV5
    Povećavanjem broja susjeda smanjujemo razlike između podataka, odnosno riješavamo se šuma. Smanjivanjem dobivamo oštrije razlike
    f) Što se događa s rezultatima ako ne koristite skaliranje ulaznih veličina?
    Rezultati se ne mijenjaju bitno
+
+3. b) Što se događa s rezultatima ako mijenjate parametar max-depth stabla odlučivanja? 
+    - smanjujemo ili povecavamo kolicinu grananja, to moze dovesti do overtraniranja
