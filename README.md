@@ -54,7 +54,8 @@ u zadatku 1?
 
 U drugom primeju koristimo polinomske članove. U prvom primjeru će regresijska linija biti ravna crta, što neće nužno pratiti točan izgled funkcije, za razliku od drugog primjera gdje će rezultantna regresijska krivulja biti kompleksna polinomijalna funkcija, što će dati točniji rezultat
 
-4. 1. Koliko mjerenja (automobila) je dostupno u datasetu?
+4.
+   1. Koliko mjerenja (automobila) je dostupno u datasetu?
       Dostupno je 6699 mjerenja
    2. Kakav je tip pojedinog stupca u dataframeu?
     name           6699 non-null   object
@@ -71,10 +72,18 @@ U drugom primeju koristimo polinomske članove. U prvom primjeru će regresijska
     seats          6699 non-null   int64
 
   3. Koji automobil ima najveću cijenu, a koji najmanju?
+   name  year  selling_price  km_driven    fuel seller_type transmission        owner  mileage  engine  max_power  seats
+4778  Maruti 800 AC  1997      10.308919      80000  Petrol  Individual       Manual  Third Owner     16.1     796       37.0      4
+                       name  year  selling_price  km_driven    fuel seller_type transmission        owner  mileage  engine  max_power  seats
+2591  BMW X7 xDrive 30d DPE  2020      15.789592       5000  Diesel  Individual    Automatic  First Owner    13.38    2993      265.0      7
+     
   4. Koliko automobila je proizvedeno 2012. godine?
+     575
   5. Koji automobil je prešao najviše kilometara, a koji najmanje?
-  6. Koliko najčešće automobili imaju sjedala?
-  7. Kolika je prosječna prijeđena kilometraža za automobile s dizel motorom, a koliko za automobile s benzinskim
+     Benzinci srednja vrijedost km: 54101.882809861534
+Dizelasi srednja vrijednost km: 88039.97234392114
+  8. Koliko najčešće automobili imaju sjedala?
+  9. Kolika je prosječna prijeđena kilometraža za automobile s dizel motorom, a koliko za automobile s benzinskim
      motorom?
 
 LV5
